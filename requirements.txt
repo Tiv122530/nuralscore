@@ -1,0 +1,19 @@
+# ハイブリッド型スコアカードOCRシステム
+# 必要な依存関係
+
+# 画像処理
+opencv-python==4.10.0.84
+Pillow==10.4.0
+numpy==2.2.1
+
+# OCRエンジン
+easyocr==1.7.2
+
+# AI Vision
+openai==1.58.1
+google-generativeai>=0.8.0
+
+# データベース（標準ライブラリのsqlite3を使用）
+
+# ユーティリティ
+python-dotenv==1.0.1
