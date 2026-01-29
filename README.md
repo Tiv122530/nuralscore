@@ -227,6 +227,3 @@ scoreocr/
 
 📧 muzui122530@gmail.com
 
-## ライセンス
-
-MIT License
